@@ -20,7 +20,7 @@ To effectively present insights, the following visualizations were created:
 - Provides insights into which cities have the highest and lowest property values.
 
 ### 2. Price Trends Over Time (Line Chart)
-![Price Trends Over Time](Images/Price%20Trends%20Over%20Time.png)
+![Price trends Over Time](Images/Price%20trends%20Over%20Time.png)
 - Tracks fluctuations in housing prices over time.
 - Helps real estate stakeholders understand market trends and predict future price movements.
 
@@ -30,7 +30,7 @@ To effectively present insights, the following visualizations were created:
 - Helps investors and developers assess the demand for small vs. large properties.
 
 ### 4. Heatmap of Property Prices (Geospatial Visualization)
-![Heatmap of Property Prices](Images/Heatmap%20of%20Property%20Prices.png)
+![Heatmap of Property prices](Images/Heatmap%20of%20Property%20prices.png)
 - A geographic visualization of property prices across different locations.
 - Highlights high-value and low-value areas, aiding in location-based investment decisions.
 
